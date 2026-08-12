@@ -8,6 +8,7 @@ solving questions
 | ------- |
 | [0001-two-sum](https://github.com/Asifp07/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Asifp07/LeetCode/tree/master/0066-plus-one) |
+| [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ solving questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
