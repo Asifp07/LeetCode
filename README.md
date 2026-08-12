@@ -16,6 +16,7 @@ solving questions
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Asifp07/LeetCode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Asifp07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
@@ -25,4 +26,12 @@ solving questions
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Asifp07/LeetCode/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
