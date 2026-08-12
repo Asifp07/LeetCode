@@ -7,6 +7,7 @@ solving questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asifp07/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Asifp07/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ solving questions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Asifp07/LeetCode/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Asifp07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
