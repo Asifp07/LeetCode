@@ -3,8 +3,7 @@ public:
     bool isPalindrome(string s) {
         string a = "";
         for(char ch : s){
-            if(isdigit(ch)) a += ch;
-            else if (isalpha(ch)) {
+            if(isdigit(ch)||isalpha(ch)) {
                 ch = tolower(ch);
                 a += ch;
             }
