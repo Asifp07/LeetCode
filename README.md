@@ -21,6 +21,7 @@ solving questions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Asifp07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Asifp07/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -34,4 +35,8 @@ solving questions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Asifp07/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
