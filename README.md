@@ -20,6 +20,7 @@ solving questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Asifp07/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Asifp07/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Asifp07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
