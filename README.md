@@ -7,6 +7,7 @@ solving questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asifp07/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Asifp07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Asifp07/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asifp07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
@@ -25,6 +26,7 @@ solving questions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Asifp07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Asifp07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Asifp07/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
@@ -64,4 +66,8 @@ solving questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Asifp07/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
