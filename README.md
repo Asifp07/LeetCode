@@ -12,6 +12,7 @@ solving questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asifp07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ solving questions
 | [0001-two-sum](https://github.com/Asifp07/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
