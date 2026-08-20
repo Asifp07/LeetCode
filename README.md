@@ -16,6 +16,7 @@ solving questions
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -74,6 +75,7 @@ solving questions
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -95,4 +97,8 @@ solving questions
 | ------- |
 | [0136-single-number](https://github.com/Asifp07/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
