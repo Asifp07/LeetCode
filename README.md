@@ -16,6 +16,7 @@ solving questions
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ solving questions
 | ------- |
 | [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
