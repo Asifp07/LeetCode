@@ -5,7 +5,7 @@ public:
         int i , sum;
         i = 0;
         sum = 0;
-        while(i<nums.size()-1){
+        while(i<nums.size()){
             sum += min(nums[i],nums[i+1]);
             i += 2;
 
