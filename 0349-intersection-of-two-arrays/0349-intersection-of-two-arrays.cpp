@@ -2,16 +2,8 @@ class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         set<int> res;
-        set<int> ans;
-        set<int> num2 ;
-        for(int i : nums2){
-            num2.insert(i);
-        }
-
-        for (int i : nums1) {
-            ans.insert(i);
-        }
-
+        set<int> ans(nums1.begin(),nums1.end());
+        set<int> num2(nums2.begin(),nums2.end());
         for (int i : num2) {
             int j = ans.size();
             ans.insert(i);
