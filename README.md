@@ -12,6 +12,7 @@ solving questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asifp07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Asifp07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Asifp07/LeetCode/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/Asifp07/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Asifp07/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
@@ -77,6 +78,7 @@ solving questions
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Asifp07/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
@@ -120,4 +122,16 @@ solving questions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Asifp07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Asifp07/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Asifp07/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Asifp07/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
