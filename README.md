@@ -17,6 +17,7 @@ solving questions
 | [0189-rotate-array](https://github.com/Asifp07/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -30,6 +31,7 @@ solving questions
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -67,6 +69,7 @@ solving questions
 | ------- |
 | [0125-valid-palindrome](https://github.com/Asifp07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Asifp07/LeetCode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +85,7 @@ solving questions
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting
@@ -100,6 +104,7 @@ solving questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
