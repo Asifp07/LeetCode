@@ -38,6 +38,7 @@ solving questions
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Asifp07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asifp07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Asifp07/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
