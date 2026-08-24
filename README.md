@@ -42,6 +42,7 @@ solving questions
 | ------- |
 | [0007-reverse-integer](https://github.com/Asifp07/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Asifp07/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Asifp07/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Asifp07/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ solving questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Asifp07/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Asifp07/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Asifp07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/Asifp07/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
@@ -61,6 +63,7 @@ solving questions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Asifp07/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -116,6 +119,7 @@ solving questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Asifp07/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Asifp07/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Asifp07/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
