@@ -35,6 +35,7 @@ solving questions
 | [0128-longest-consecutive-sequence](https://github.com/Asifp07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Asifp07/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -57,6 +58,7 @@ solving questions
 | [0014-longest-common-prefix](https://github.com/Asifp07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Asifp07/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Asifp07/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Asifp07/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Asifp07/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -96,6 +98,7 @@ solving questions
 | [0164-maximum-gap](https://github.com/Asifp07/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Asifp07/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
