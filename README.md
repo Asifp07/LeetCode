@@ -17,6 +17,7 @@ solving questions
 | [0137-single-number-ii](https://github.com/Asifp07/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Asifp07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Asifp07/LeetCode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asifp07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Asifp07/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@ solving questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Asifp07/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asifp07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Asifp07/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
@@ -119,6 +121,7 @@ solving questions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asifp07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asifp07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
