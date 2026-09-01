@@ -33,6 +33,7 @@ solving questions
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Asifp07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asifp07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ solving questions
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asifp07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +117,7 @@ solving questions
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
