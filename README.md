@@ -34,6 +34,7 @@ solving questions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asifp07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Asifp07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ solving questions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Asifp07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asifp07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Asifp07/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Asifp07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
