@@ -66,6 +66,7 @@ solving questions
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Asifp07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Asifp07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asifp07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Asifp07/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Asifp07/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Asifp07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
