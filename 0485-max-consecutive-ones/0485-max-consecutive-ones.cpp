@@ -6,9 +6,10 @@ public:
         for(int i : nums){
             if(i == 1){
                 count ++;
+                ans = max(count,ans);
             }
             else count = 0;
-            ans = max(count,ans);
+            
 
         }
       return ans;  
