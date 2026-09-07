@@ -31,6 +31,7 @@ solving questions
 | [0485-max-consecutive-ones](https://github.com/Asifp07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
 | [0941-valid-mountain-array](https://github.com/Asifp07/LeetCode/tree/master/0941-valid-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Asifp07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Asifp07/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -202,6 +203,7 @@ solving questions
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Asifp07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Asifp07/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Recursion
 |  |
