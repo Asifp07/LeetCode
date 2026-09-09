@@ -76,6 +76,7 @@ solving questions
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Asifp07/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Asifp07/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Asifp07/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Asifp07/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Asifp07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
