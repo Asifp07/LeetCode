@@ -32,6 +32,7 @@ solving questions
 | [0523-continuous-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Asifp07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
+| [0877-stone-game](https://github.com/Asifp07/LeetCode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Asifp07/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asifp07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Asifp07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ solving questions
 | [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/Asifp07/LeetCode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Asifp07/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Asifp07/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asifp07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -127,6 +129,7 @@ solving questions
 | [0053-maximum-subarray](https://github.com/Asifp07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asifp07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Asifp07/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Asifp07/LeetCode/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,4 +232,16 @@ solving questions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Asifp07/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Asifp07/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Asifp07/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Asifp07/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
