@@ -28,6 +28,7 @@ solving questions
 | [0283-move-zeroes](https://github.com/Asifp07/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Asifp07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Asifp07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Asifp07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -149,6 +150,7 @@ solving questions
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Asifp07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Asifp07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
