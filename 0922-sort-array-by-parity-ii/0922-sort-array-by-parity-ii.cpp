@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> sortArrayByParityII(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
         int j = 1;
         int i = 0;
         while(j < nums.size() && i<nums.size()){
