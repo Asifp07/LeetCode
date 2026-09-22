@@ -5,7 +5,7 @@ public:
         int j = height.size()-1;
         auto area = 0;
 
-        while(i <= j){
+        while(i <j){
 
             auto minm = min(height[i],height[j]);
             area = max(area, minm*(j-i));
