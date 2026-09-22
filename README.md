@@ -7,6 +7,7 @@ solving questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asifp07/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Asifp07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Asifp07/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asifp07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Asifp07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -121,6 +122,7 @@ solving questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Asifp07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asifp07/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Asifp07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asifp07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -198,6 +200,7 @@ solving questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Asifp07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Asifp07/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Asifp07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
