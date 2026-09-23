@@ -23,6 +23,7 @@ solving questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asifp07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Asifp07/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Asifp07/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Asifp07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
@@ -182,6 +183,7 @@ solving questions
 | [0033-search-in-rotated-sorted-array](https://github.com/Asifp07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asifp07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asifp07/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Asifp07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -236,6 +238,7 @@ solving questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Asifp07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Asifp07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -270,5 +273,6 @@ solving questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Asifp07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Asifp07/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
