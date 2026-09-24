@@ -48,6 +48,7 @@ solving questions
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Asifp07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asifp07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Asifp07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asifp07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Asifp07/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -89,6 +90,7 @@ solving questions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asifp07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asifp07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Asifp07/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Asifp07/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Asifp07/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Asifp07/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Asifp07/LeetCode/tree/master/3871-count-commas-in-range-ii) |
