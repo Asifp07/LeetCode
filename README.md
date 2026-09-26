@@ -38,6 +38,7 @@ solving questions
 | [0560-subarray-sum-equals-k](https://github.com/Asifp07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Asifp07/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Asifp07/LeetCode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/Asifp07/LeetCode/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Asifp07/LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Asifp07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Asifp07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -120,6 +121,7 @@ solving questions
 | ------- |
 | [0067-add-binary](https://github.com/Asifp07/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Asifp07/LeetCode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Asifp07/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
@@ -260,6 +262,7 @@ solving questions
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Asifp07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Asifp07/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Asifp07/LeetCode/tree/master/0682-baseball-game) |
 ## Minimax
 |  |
 | ------- |
