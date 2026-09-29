@@ -44,6 +44,7 @@ solving questions
 | [0922-sort-array-by-parity-ii](https://github.com/Asifp07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Asifp07/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Asifp07/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Asifp07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Asifp07/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -75,6 +76,7 @@ solving questions
 | [0523-continuous-subarray-sum](https://github.com/Asifp07/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Asifp07/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Asifp07/LeetCode/tree/master/0575-distribute-candies) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asifp07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asifp07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
@@ -178,6 +180,7 @@ solving questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
