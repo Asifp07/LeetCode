@@ -115,6 +115,7 @@ solving questions
 | [0344-reverse-string](https://github.com/Asifp07/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Asifp07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Asifp07/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String Matching
 |  |
@@ -270,6 +271,7 @@ solving questions
 | [0234-palindrome-linked-list](https://github.com/Asifp07/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Asifp07/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Asifp07/LeetCode/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
 |  |
@@ -300,6 +302,7 @@ solving questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Segment Tree
 |  |
