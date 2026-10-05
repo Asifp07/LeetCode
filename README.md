@@ -81,6 +81,7 @@ solving questions
 | [0575-distribute-candies](https://github.com/Asifp07/LeetCode/tree/master/0575-distribute-candies) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asifp07/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/Asifp07/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asifp07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asifp07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
@@ -120,6 +121,7 @@ solving questions
 | [0796-rotate-string](https://github.com/Asifp07/LeetCode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2351-first-letter-to-appear-twice](https://github.com/Asifp07/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
@@ -189,6 +191,7 @@ solving questions
 | [0169-majority-element](https://github.com/Asifp07/LeetCode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asifp07/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2351-first-letter-to-appear-twice](https://github.com/Asifp07/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -216,6 +219,7 @@ solving questions
 | [0137-single-number-ii](https://github.com/Asifp07/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Asifp07/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/Asifp07/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Quicksort
 |  |
 | ------- |
