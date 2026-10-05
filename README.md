@@ -50,6 +50,7 @@ solving questions
 | [1929-concatenation-of-array](https://github.com/Asifp07/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asifp07/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Asifp07/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Asifp07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Asifp07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -153,6 +154,7 @@ solving questions
 | [0876-middle-of-the-linked-list](https://github.com/Asifp07/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Asifp07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Asifp07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
