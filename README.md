@@ -14,6 +14,7 @@ solving questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Asifp07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Asifp07/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Asifp07/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Asifp07/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asifp07/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Asifp07/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Asifp07/LeetCode/tree/master/0136-single-number) |
@@ -215,6 +216,7 @@ solving questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Asifp07/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Asifp07/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Asifp07/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Asifp07/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Asifp07/LeetCode/tree/master/0268-missing-number) |
@@ -326,4 +328,8 @@ solving questions
 | ------- |
 | [0175-combine-two-tables](https://github.com/Asifp07/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Asifp07/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Asifp07/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
