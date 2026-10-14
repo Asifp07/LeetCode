@@ -119,6 +119,7 @@ solving questions
 | [0242-valid-anagram](https://github.com/Asifp07/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Asifp07/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Asifp07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Asifp07/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Asifp07/LeetCode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Asifp07/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -154,6 +155,7 @@ solving questions
 | [0345-reverse-vowels-of-a-string](https://github.com/Asifp07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Asifp07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Asifp07/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Asifp07/LeetCode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Asifp07/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Asifp07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Asifp07/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
