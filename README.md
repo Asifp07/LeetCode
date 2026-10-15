@@ -53,6 +53,7 @@ solving questions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Asifp07/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Asifp07/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Asifp07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Asifp07/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Asifp07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asifp07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -83,6 +84,7 @@ solving questions
 | [1394-find-lucky-integer-in-an-array](https://github.com/Asifp07/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Asifp07/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Asifp07/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Asifp07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Asifp07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Asifp07/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Asifp07/LeetCode/tree/master/3731-find-missing-elements) |
@@ -320,6 +322,7 @@ solving questions
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Asifp07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Asifp07/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -334,4 +337,8 @@ solving questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Asifp07/LeetCode/tree/master/0078-subsets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Asifp07/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
